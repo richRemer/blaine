@@ -1,0 +1,25 @@
+{
+  "name": "blaine",
+  "version": "0.0.1",
+  "description": "Tabletop role-playing game engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "mocha": "~1.21",
+    "expect.js": "~0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:richRemer/blaine.git"
+  },
+  "keywords": [
+    "rpg"
+  ],
+  "author": "Richard Remer (reanjr@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/richRemer/blaine/issues"
+  }
+}
